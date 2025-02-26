@@ -1,0 +1,1 @@
+authorization_token|!faucet wallet_address(what you want to send)
